@@ -1,0 +1,30 @@
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\bin\Debug\GSSPayroll.exe
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\bin\Debug\GSSPayroll.pdb
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\bin\Debug\GSSPayroll.xml
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.frmEmployee.resources
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.MainForm.resources
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.Resources.resources
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.vbproj.GenerateResource.Cache
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.exe
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.xml
+C:\Users\mrepS\AppData\Local\Temporary Projects\GSSPayroll\obj\Debug\GSSPayroll.pdb
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\GSSPayroll.exe.config
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\GSSPayroll.exe
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\GSSPayroll.pdb
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\GSSPayroll.xml
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmDBSettings.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmEmployee.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmEmployeeAdd.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmLogin.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.MainForm.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.Resources.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.vbproj.GenerateResource.Cache
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.exe
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.xml
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.pdb
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\dtr.txt
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\bin\Debug\MySql.Data.dll
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.test.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmDepartment.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmUserAccounts.resources
+C:\Users\mrepS\Documents\Visual Studio 2012\Projects\GSSPayroll\GSSPayroll\obj\Debug\GSSPayroll.frmUserAdd.resources
